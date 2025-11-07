@@ -1,0 +1,17 @@
+{
+  "name": "paint-together",
+  "version": "1.0.0",
+  "description": "**✨ Descrição:**   PintaJunto é um app web colaborativo que permite desenhar em **tempo real** com amigos! Escolha cores, traços, apague, crie salas privadas e compartilhe sua arte de forma divertida. 🎨🖌️",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
