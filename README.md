@@ -12,3 +12,7 @@ Criar um app interativo usando **HTML, CSS, JavaScript e Node.js**, aplicando **
 - 🧹 Limpar e salvar desenho  
 - 🔑 Salas privadas com código único  
 - 🤝 Desenho colaborativo em tempo real
+
+
+## 📊 Status do projeto
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20% concluído
